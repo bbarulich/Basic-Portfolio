@@ -166,6 +166,61 @@ input[type="submit"]{
 	font-size: 15px;
 	border:0;
 }
+/**portfolio page **/
+#ptfl{
+	margin-left:45px;
+}
+
+.portfolio{
+	width:265px;
+	height:200px;
+	display:inline-block;
+	margin-left: 
+}	
+
+.portfolio p{
+	color:#ffffff;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-size: 23px;
+	margin-top:145px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-family:'Georgia', Times, Times New Roman, serif;
+}
+#hangman{
+	background-image:url("../images/hangman.jpg");
+	background-size: cover;
+	margin-left: 45px;
+	margin-bottom: 55px;
+}
+
+#rpggame{
+	background-image:url("../images/rpggame.jpg");
+	background-size: cover;
+	margin-left: 45px;
+}
+#triviagame{
+	background-image:url("../images/triviagame.jpg");
+	background-size: cover;
+	margin-left: 45px;
+	margin-bottom: 55px;
+}
+#rutgersinfowidget{
+	background-image:url("../images/rutgersinfowidget.jpg");
+	background-size: cover;
+	margin-left: 45px;
+}
+#rockpaperscissors{
+	background-image:url("../images/rockpaperscissors.jpg");
+	background-size: cover;
+	margin-left: 45px;
+	margin-bottom: 55px;
+}
+
+
+
+
 
 /**footer**/
 footer{
@@ -175,6 +230,7 @@ footer{
 	text-align: center;
 	clear:both;
 	background-color: #666666;
+
 }
 
 footer p{
