@@ -1,4 +1,7 @@
 /**body etc*/
+h1, h2 {
+font-weight: 700;
+}
 
 a{
 	text-decoration: none;
@@ -17,9 +20,23 @@ body{
 /** headers **/
 h1{
 	font-family:'Georgia', Times, Times New Roman, serif;
-}
+	 display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+  }
 h2{
 	font-family:'Georgia', Times, Times New Roman, serif;
+	display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
 }
 
 .bar{
@@ -230,6 +247,7 @@ footer{
 	text-align: center;
 	clear:both;
 	background-color: #666666;
+	
 
 }
 
